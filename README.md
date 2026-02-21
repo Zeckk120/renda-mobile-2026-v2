@@ -1,1 +1,1 @@
-# renda-mobile-2026-v2
+# renda-mobile-2026
